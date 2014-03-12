@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\ImageToolsCSharp\ImageToolsCSharp\obj\Debug\ImageToolsCSharp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\ImageToolsCSharp\ImageToolsCSharp\bin\Debug\ImageToolsCSharp.dll
+c:\users\user\documents\visual studio 2012\Projects\ImageToolsCSharp\ImageToolsCSharp\bin\Debug\ImageToolsCSharp.pdb
+c:\users\user\documents\visual studio 2012\Projects\ImageToolsCSharp\ImageToolsCSharp\obj\Debug\ImageToolsCSharp.dll
+c:\users\user\documents\visual studio 2012\Projects\ImageToolsCSharp\ImageToolsCSharp\obj\Debug\ImageToolsCSharp.pdb
