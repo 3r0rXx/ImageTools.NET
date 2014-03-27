@@ -2,11 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace ImageToolsCSharp.OCR.ConturComparer
+namespace ImageToolsCSharp.XML.Template.Writer
 {
-    public class PixelComparer
+    public class TemplateWriter
     {
 
     }

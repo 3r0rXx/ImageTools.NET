@@ -15,7 +15,7 @@ namespace ImageToolsCSharp.PixelOperations.Effects.GrayScale
         public GrayScale(Bitmap Image)
         {
             //9123
-            int gr, gg, gb,result = 0;
+            int gr, gg, gb, result = 0;
 
             SourceImage = Image;
             //Processing here

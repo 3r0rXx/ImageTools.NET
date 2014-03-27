@@ -2,12 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace ImageToolsCSharp.OCR.ConturScan
+namespace ImageToolsCSharp.XML.Template
 {
-    public class ConturHelper
+    public class Parser
     {
-
     }
 }

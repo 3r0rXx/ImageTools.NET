@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 using ImageToolsCSharp.MathematicalOperations.Vector;
 namespace ImageToolsCSharp.PixelOperations.Pixel
 {
-    public struct Pixel
+    public class Pixel
     {
         public ARGB ARGB;
+        public System.Drawing.Color PixelColor;
         public Vector2 Position;
 
 
@@ -18,6 +19,12 @@ namespace ImageToolsCSharp.PixelOperations.Pixel
             ARGB = argb;
         }
 
+        public Pixel(Vector2 pos, System.Drawing.Color Color)
+        {
+            Position = pos;
+            PixelColor = Color;
+        }
+
         public Pixel(Vector2 pos, byte A, byte RGB)
         {
             Position = pos;
@@ -25,6 +32,16 @@ namespace ImageToolsCSharp.PixelOperations.Pixel
             ARGB.R = RGB;
             ARGB.G = RGB;
             ARGB.B = RGB;
+        }
+
+
+        public static bool operator ==(Pixel p1, Pixel p2)
+        {
+            return object.Equals(p1, p2);
+        }
+        public static bool operator !=(Pixel p1, Pixel p2)
+        {
+            return !(object.Equals(p1, p2));
         }
     }
 }

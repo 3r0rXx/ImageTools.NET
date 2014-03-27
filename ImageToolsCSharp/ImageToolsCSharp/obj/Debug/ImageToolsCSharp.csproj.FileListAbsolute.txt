@@ -3,3 +3,13 @@ c:\users\user\documents\visual studio 2012\Projects\ImageToolsCSharp\ImageToolsC
 c:\users\user\documents\visual studio 2012\Projects\ImageToolsCSharp\ImageToolsCSharp\bin\Debug\ImageToolsCSharp.pdb
 c:\users\user\documents\visual studio 2012\Projects\ImageToolsCSharp\ImageToolsCSharp\obj\Debug\ImageToolsCSharp.dll
 c:\users\user\documents\visual studio 2012\Projects\ImageToolsCSharp\ImageToolsCSharp\obj\Debug\ImageToolsCSharp.pdb
+C:\Users\3r0rXx\Desktop\ImageToolsCSharp\ImageToolsCSharp\bin\Debug\ImageToolsCSharp.dll
+C:\Users\3r0rXx\Desktop\ImageToolsCSharp\ImageToolsCSharp\bin\Debug\ImageToolsCSharp.pdb
+C:\Users\3r0rXx\Desktop\ImageToolsCSharp\ImageToolsCSharp\obj\Debug\ImageToolsCSharp.csprojResolveAssemblyReference.cache
+C:\Users\3r0rXx\Desktop\ImageToolsCSharp\ImageToolsCSharp\obj\Debug\ImageToolsCSharp.dll
+C:\Users\3r0rXx\Desktop\ImageToolsCSharp\ImageToolsCSharp\obj\Debug\ImageToolsCSharp.pdb
+C:\Users\user\Desktop\ImageToolsCSharp\ImageToolsCSharp\bin\Debug\ImageToolsCSharp.dll
+C:\Users\user\Desktop\ImageToolsCSharp\ImageToolsCSharp\bin\Debug\ImageToolsCSharp.pdb
+C:\Users\user\Desktop\ImageToolsCSharp\ImageToolsCSharp\obj\Debug\ImageToolsCSharp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ImageToolsCSharp\ImageToolsCSharp\obj\Debug\ImageToolsCSharp.dll
+C:\Users\user\Desktop\ImageToolsCSharp\ImageToolsCSharp\obj\Debug\ImageToolsCSharp.pdb
